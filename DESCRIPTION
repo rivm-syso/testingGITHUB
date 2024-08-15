@@ -1,0 +1,22 @@
+Package: testingGITHUB
+Title: Create Beautiful Packages With DARA
+Version: 0.0.0.9000
+Authors@R: person("DARAteam", email = "dara-team-list@rivm.nl", role = c("cre", "aut"))
+Description: DARAtest is an R package that provides a comprehensive suite of statistical tests and tools for analyzing data sets,        making it easier for users to perform accurate and efficient data analysis.
+License: Apache License (>= 2)
+Encoding: UTF-8
+Imports: 
+    cli (>= 3.6.2),
+    dplyr (>= 1.1.4),
+    magrittr (>= 2.0.3),
+    rlang (>= 1.1.0)
+Suggests: 
+    covr (>= 3.6.4),
+    knitr (>= 1.47),
+    pkgdown (>= 2.0.9),
+    rmarkdown (>= 2.27),
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+VignetteBuilder: knitr
