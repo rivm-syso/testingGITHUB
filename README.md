@@ -58,6 +58,6 @@ create automatic documentation in the `man` folder, for more information check o
 
 ## Authors and acknowledgment
 This R packages was created by DARAteam (dara-team-list@rivm.nl).
-.. 
+
 ## License
 *For open source projects, indicate how it is licensed.*
